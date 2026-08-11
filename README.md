@@ -146,7 +146,7 @@ Build the production bundle:
 ```bash
 npm run build
 ```
-
+https://drive.google.com/file/d/18H7TcEU8Imhe9TjAOs1QMcRfgsTqJBxx/view?usp=drive_link
 ## Notes
 
 Promptspad is designed as a frontend marketplace UI for prompt discovery, prompt detail consumption, AI generation, saved prompt workflows, and admin management. The current implementation relies heavily on static local datasets and browser localStorage for persistence, with OpenAI-powered AI actions executed from the browser service layer.
